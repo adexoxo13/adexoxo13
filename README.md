@@ -4,7 +4,7 @@
 
 <br clear="both">
 
-<h3 align="left">🔍 About Me<br>AI Engineer specializing in Large Language Models (LLMs), AI Agents, and Computer Vision, with a passion for creating scalable, real-world AI solutions. I also enjoy Frontend development, blending intuitive design with intelligent systems.<br><br>📚 Background<br>🎓 M.Sc. in AI Engineering — Jönköping University<br>🎓 B.Sc. in Electrical & Computer Engineering — Hawassa University<br><br>🤝 Let’s Collaborate!<br>Love what you see here? Let’s team up for innovative AI projects and build something impactful together. Connect with me on LinkedIn or drop me an email — I’d love to hear from you!</h3>
+<h3 align="left">AI & Frontend Engineer building scalable, real‑world solutions that blend intuitive design with intelligent systems.<br><br>🚀 About Me<br>- 🎯 Specialties: Large Language Models (LLMs) · AI Agents · Computer Vision · Frontend (React, TypeScript)  <br>- 🌱 Always learning: Full‑stack development · Design systems · Modern web tools  <br>- 🤝 Collaboration: I believe in clean code, meaningful teamwork, and projects that make an impact<br><br>📌 Featured Projects<br>🎨 ResearchAgent —    A secure academic research assistant web app (Flask + FastAPI + LangChain + OpenAI) providing authenticated users with AI‑powered workflows and citation support.<br><br>📊 Knime-Sweden-Energy-Weather — A KNIME workflow integrating SCB & SMHI APIs to analyze correlations between Sweden’s energy production and weather patterns.<br><br>📫 Get in Touch<br>📧 Email: adenabrehema@gmail.com<br>💼 LinkedIn: https://www.linkedin.com/in/aden-alemayehu-1629aa255/</h3>
 
 ###
 
