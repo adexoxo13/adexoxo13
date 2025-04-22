@@ -4,7 +4,7 @@
 
 <br clear="both">
 
-<h3 align="left">AI & Frontend Engineer building scalable, real‑world solutions that blend intuitive design with intelligent systems.<br><br><h2>🚀 About Me</h2><br>- 🎯 Specialties: Large Language Models (LLMs) · AI Agents · Computer Vision · Frontend (React, TypeScript)  <br>- 🌱 Always learning: Full‑stack development · Design systems · Modern web tools  <br>- 🤝 Collaboration: I believe in clean code, meaningful teamwork, and projects that make an impact<br><br><h2>📌 Featured Projects</h2><br><b>🎨 ResearchAgent </b>—    A secure academic research assistant web app (Flask + FastAPI + LangChain + OpenAI) providing authenticated users with AI‑powered workflows and citation support.<br><br><b>📊 Knime-Sweden-Energy-Weather</b> — A KNIME workflow integrating SCB & SMHI APIs to analyze correlations between Sweden’s energy production and weather patterns.<br><br><h2>📫 Get in Touch</h2><br>📧 Email: adenabrehema@gmail.com<br>💼 LinkedIn: https://www.linkedin.com/in/aden-alemayehu-1629aa255/</h3>
+<h3 align="left">AI & Frontend Engineer building scalable, real‑world solutions that blend intuitive design with intelligent systems.<br><br>🚀 About Me<br>- 🎯 Specialties: Large Language Models (LLMs) · AI Agents · Computer Vision · Frontend (React, TypeScript)  <br>- 🌱 Always learning: Full‑stack development · Design systems · Modern web tools  <br>- 🤝 Collaboration: I believe in clean code, meaningful teamwork, and projects that make an impact<br><br>📌 Featured Projects<br>🎨 ResearchAgent —    A secure academic research assistant web app (Flask + FastAPI + LangChain + OpenAI) providing authenticated users with AI‑powered workflows and citation support.<br><br>📊 Knime-Sweden-Energy-Weather — A KNIME workflow integrating SCB & SMHI APIs to analyze correlations between Sweden’s energy production and weather patterns.<br><br>📫 Get in Touch<br>📧 Email: adenabrehema@gmail.com<br>💼 LinkedIn: https://www.linkedin.com/in/aden-alemayehu-1629aa255/</h3>
 
 ###
 
@@ -85,6 +85,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="40" alt="fastapi logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="bash logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="40" alt="flask logo"  />
 </div>
 
 ###
